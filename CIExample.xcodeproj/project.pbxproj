@@ -24,6 +24,7 @@
 		7DF5B896249DFE9700CF85E4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7DF5B899249DFE9700CF85E4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7DF5B89B249DFE9700CF85E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7DF5B8A1249E0E7900CF85E4 /* CIExample.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = CIExample.xctestplan; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				7DF5B896249DFE9700CF85E4 /* Assets.xcassets */,
 				7DF5B898249DFE9700CF85E4 /* LaunchScreen.storyboard */,
 				7DF5B89B249DFE9700CF85E4 /* Info.plist */,
+				7DF5B8A1249E0E7900CF85E4 /* CIExample.xctestplan */,
 			);
 			path = CIExample;
 			sourceTree = "<group>";

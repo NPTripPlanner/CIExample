@@ -1,0 +1,23 @@
+{
+  "configurations" : [
+    {
+      "id" : "FDC9378A-7D57-4D79-B583-6AF4B762C021",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:CIExample.xcodeproj",
+      "identifier" : "7DF5B889249DFE9300CF85E4",
+      "name" : "CIExample"
+    }
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
